@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 42c4cf7f8c737c747b6cb57de11a9e92
+timeCreated: 1488511577
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BowlORama
+  fontNames:
+  - BowlORama
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
